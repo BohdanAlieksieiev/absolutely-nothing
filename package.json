@@ -35,15 +35,15 @@
     "enterprise",
     "solution"
   ],
-  "author": "",
+  "author": "BohdanAlieksieiev",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/absolutely-nothing.git"
+    "url": "https://github.com/BohdanAlieksieiev/absolutely-nothing.git"
   },
-  "homepage": "https://github.com/yourusername/absolutely-nothing#readme",
+  "homepage": "https://github.com/BohdanAlieksieiev/absolutely-nothing#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/absolutely-nothing/issues"
+    "url": "https://github.com/BohdanAlieksieiev/absolutely-nothing/issues"
   },
   "engines": {
     "node": ">=14.0.0"
