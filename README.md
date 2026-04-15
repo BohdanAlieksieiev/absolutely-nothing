@@ -2,6 +2,8 @@
 
 > The most reliable way to do absolutely nothing.
 
+> Install it. Run it. Nothing happens. Exactly as expected.
+
 [![npm version](https://img.shields.io/npm/v/absolutely-nothing.svg)](https://www.npmjs.com/package/absolutely-nothing)
 [![npm downloads](https://img.shields.io/npm/dm/absolutely-nothing.svg)](https://www.npmjs.com/package/absolutely-nothing)
 [![license](https://img.shields.io/npm/l/absolutely-nothing.svg)](LICENSE)
@@ -27,7 +29,7 @@ yarn add absolutely-nothing
 pnpm add absolutely-nothing
 ```
 
-> Already installed? Nothing has changed.
+> Already installed? Perfect. Nothing has changed.
 
 ---
 
@@ -187,6 +189,16 @@ Scales nothing. Horizontally, vertically, or not at all — you decide. Infrastr
 
 ---
 
+## Philosophy
+
+In a world full of over-engineered solutions, `absolutely-nothing` takes a different approach.
+
+It does nothing.
+
+And sometimes, that's enough.
+
+---
+
 ## Why This Library Exists
 
 You've heard of libraries that do too much.  
@@ -296,7 +308,7 @@ Because it does nothing.
 All three are identical. Pick whichever one best communicates your intent to the next developer who reads your code. The result will be the same.
 
 **Q: I found a bug.**  
-You didn't.
+No, you didn't.
 
 **Q: I'm getting `undefined` back from `getNothing()`.**  
 Yes. That's correct. That's the feature.
@@ -325,6 +337,12 @@ Pull requests that accidentally add functionality will be rejected.
 ## License
 
 [MIT](LICENSE) — free to use for absolutely nothing.
+
+---
+
+---
+
+> If this library breaks your code, it wasn't doing nothing hard enough.
 
 ---
 
