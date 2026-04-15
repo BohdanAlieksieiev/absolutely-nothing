@@ -39,7 +39,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BohdanAlieksieiev/absolutely-nothing.git"
+    "url": "git+https://github.com/BohdanAlieksieiev/absolutely-nothing.git"
   },
   "homepage": "https://github.com/BohdanAlieksieiev/absolutely-nothing#readme",
   "bugs": {
